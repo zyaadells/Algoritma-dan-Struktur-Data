@@ -33,7 +33,6 @@ void gotoxy(int x, int y){
 //cetak menu
 int main(){
     ulang:
-    system("cls");
     do{
     if(pointer==0){
          pointer++;
