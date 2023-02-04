@@ -3,7 +3,7 @@
 #include <conio.h>
 #include <windows.h>
 
-//exit
+//mengulang
 int cont;
 
 //panah
@@ -16,7 +16,7 @@ int pilihan;
 //isi case 1
 int y, i, j, n, lvl1;
 
-//isi case 3
+//isi case 2
 int a, b, angkapil;
 
 //isi case 3
